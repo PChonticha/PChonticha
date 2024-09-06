@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chontecha</h1>
+<h1 align="center">Hi 👋, I'm Chonticha</h1>
 
 - 🔭 I’m currently working on **Than Sound Design and Solution Co., Ltd.**
 
